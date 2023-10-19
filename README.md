@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Fullstack Developing in the academy of UpgradeHub (Madrid,Spain)
-- 👯 I’m looking to collaborate on any proyect related to html and css
+- 👯 I’m looking to collaborate on any proyects related to html and css
 - 📫 How to reach me: roy.rebuffo@bootcamp-upgrade.com
 <!--
 **Roy-Rebuffo/Roy-Rebuffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
