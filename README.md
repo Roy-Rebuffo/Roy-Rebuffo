@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👷‍♂️ I’m currently working on my final project for UpgradeHub academy
+- 👷‍♂️ I’m currently studying a higher vocational training in metrodoraFP 
 - 💖 Check all my works by clicking on this organized library. https://github.com/Roy-Rebuffo?tab=stars
-- 🌱 I’m currently learning Fullstack Developing in the academy of UpgradeHub (Madrid,Spain)
-- 📫 How to reach me: roy.rebuffo@bootcamp-upgrade.com
+- 🌱 I’m currently learning C, Java, SQL and more in the academy of metrodoraFP (Madrid,Spain)
+- 📫 How to reach me: rebufforoy@gmail.com
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
