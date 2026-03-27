@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🤖 Planning Agent | AI Automation<br>Productivity | Python + LangChain + OpenAI + FastAPI<br><br>- Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>- Implementation of complex RAG flows for documentation management.<br><br>🍰 SweetDash | Full-Stack<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>- Full scale management system for stock control, traceability, and automated ordering.</h4>
+<h4 align="left">🤖 Planning Agent | AI Automation: (https://github.com/Roy-Rebuffo/mini_Jira)<br>Productivity | Python + LangChain + OpenAI + FastAPI<br><br>- Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>- Implementation of complex RAG flows for documentation management.<br><br>🍰 SweetDash | Full-Stack: (https://github.com/Roy-Rebuffo/SweetDash)<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>- Full scale management system for stock control, traceability, and automated ordering.</h4>
 
 ###
 
