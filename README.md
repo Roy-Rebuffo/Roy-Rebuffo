@@ -8,15 +8,11 @@
 
 ###
 
-<h3 align="center">🚀 Software Engineering Student @ Metrodora FP (Madrid, Spain)<br>A developer focused on building scalable, secure and efficient solutions. <br>Currently delving deeper into the ecosystem of **AI Agents** and **modern backend architectures**.</h3>
+<h3 align="center">Software Engineering Student @ Metrodora FP (Madrid, Spain)<br>Focusing on building scalable, secure, and efficient solutions with a special interest in AI Agents and Modern Backend Architectures.</h3>
 
 ###
 
-<h4 align="left">🛠️ My Tech Stack<br><br>Backend & Cloud Architecture<br>☕ Java & Spring Boot: Development of robust microservices and secure enterprise applications with Hibernate/JPA.<br><br>⚡ Python (FastAPI & Uvicorn): Creation of high-performance REST APIs and modern, asynchronous architectures.<br><br>🦜 AI & Agentics (LangChain): Orchestration of LLMs, development of autonomous agents and intelligent reasoning flows.<br><br>🛡️ Advanced Security: Implementing authentication with JWT (python-jose), OAuth2, and secure password hashing with bcrypt/passlib.<br><br>Database & Persistence<br>🐘 PostgreSQL & MySQL: Designing relational schemas, query optimisation, and data integrity management.<br><br>🗄️ ORM & Data Management (SQLAlchemy): Use of SQLAlchemy for Python and JPA for Java.<br><br>⚙️ Migrations (Alembic): Version control and database schema evolution with Alembic.<br><br>Frontend & Mobile<br>⚛️ React: Building dynamic interfaces, SPAs (Single Page Applications) and efficient API consumption.<br><br>Infrastructure & Workflow<br>☁️ Cloudinary: Management and optimisation of media and cloud image storage.<br><br>🐳 Docker: Container orchestration and scalable application deployment.<br><br>🛠️ DevOps: Professional version control<br><br>
-### 🌟 Featured Projects<br><br>
-#### 🍰 [SweetDash](https://github.com/Roy-Rebuffo/confectioneryProject)<br>**Full-stack Ecosystem** | Java + Spring Boot+ MySQL + React<br>- Full-stack system for automated stock control, ingredient traceability, and order management.<br>- Scalable architecture designed to transition from manual workflows to a high-concurrency relational database.<br>- Image integration with Cloudinary.<br><br>
-#### 🤖 [Planning Agent (Mini Jira)](https://github.com/Roy-Rebuffo/mini_Jira)<br>**AI & Automation** | Python + LangChain + Groq + FastAPI + React<br>- Intelligent agent capable of reasoning and organising tasks autonomously.<br>- Implementation of agent-based architectures to improve workflow.<br><br>---<br><br>
-### 📫 Connect with me:<br>- 📧 **rebufforoy@gmail.com**<br>- 💼 [LinkedIn](https://www.linkedin.com/in/royrebuffo/)</h4>
+<h4 align="left">🚀 Key Projects<br><br>🤖 Planning Agent | AI Automation<br>Productivity | Python + LangChain + OpenAI + FastAPI<br><br>Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>Implementation of complex RAG flows for documentation management.<br><br>🍰 SweetDash | Full-Stack<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>Full-scale management system for stock control, traceability, and automated ordering.<br>---<br>🛠️ Tech Stack<br>Backend: Java (Spring Boot, Hibernate), Python (FastAPI, Uvicorn, Pydantic).<br><br>AI & Agents: LangChain, LangGraph, Groq SDK.<br><br>Database: PostgreSQL, MySQL, SQLAlchemy (ORM), Alembic (Migrations).<br><br>Frontend: React (TS/JS), Tailwind CSS.<br><br>DevOps: Git/GitHub, Docker-Compose, JWT Auth.<br><br>📫 Connect with me: rebufforoy@gmail.com<br>💼 https://www.linkedin.com/in/royrebuffo/</h4>
 
 ###
 
