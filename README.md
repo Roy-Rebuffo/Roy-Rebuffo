@@ -12,7 +12,19 @@
 
 ###
 
-<h4 align="left">🚀 Key Projects<br><br>🤖 Planning Agent | AI Automation<br>Productivity | Python + LangChain + OpenAI + FastAPI<br><br>Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>Implementation of complex RAG flows for documentation management.<br><br>🍰 SweetDash | Full-Stack<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>Full-scale management system for stock control, traceability, and automated ordering.<br>---<br>🛠️ Tech Stack<br>Backend: Java (Spring Boot, Hibernate), Python (FastAPI, Uvicorn, Pydantic).<br><br>AI & Agents: LangChain, LangGraph, Groq SDK.<br><br>Database: PostgreSQL, MySQL, SQLAlchemy (ORM), Alembic (Migrations).<br><br>Frontend: React (TS/JS), Tailwind CSS.<br><br>DevOps: Git/GitHub, Docker-Compose, JWT Auth.<br><br>📫 Connect with me: rebufforoy@gmail.com<br>💼 https://www.linkedin.com/in/royrebuffo/</h4>
+<h3 align="left">🚀 Key Projects</h3>
+
+###
+
+<h4 align="left">🤖 Planning Agent | AI Automation<br>Productivity | Python + LangChain + OpenAI + FastAPI<br><br>Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>Implementation of complex RAG flows for documentation management.<br><br>🍰 SweetDash | Full-Stack<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>Full-scale management system for stock control, traceability, and automated ordering.</h4>
+
+###
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+###
+
+<h4 align="left">Backend: Java (Spring Boot, Hibernate), Python (FastAPI, Uvicorn, Pydantic).<br><br>AI & Agents: LangChain, LangGraph, Groq SDK.<br><br>Database: PostgreSQL, MySQL, SQLAlchemy (ORM), Alembic (Migrations).<br><br>Frontend: React (TS/JS), Tailwind CSS.<br><br>DevOps: Git/GitHub, Docker-Compose, JWT Auth.<br><br>📫 Connect with me: rebufforoy@gmail.com<br>💼 https://www.linkedin.com/in/royrebuffo/</h4>
 
 ###
 
