@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left"># Hi there, I'm Roy 👋</h1>
+<h1 align="center"># Hi there, I'm Roy 👋</h1>
 
 ###
 
-<h3 align="left">Software Engineering Student @ Metrodora FP (Madrid, Spain)<br>Focusing on building scalable, secure, and efficient solutions with a special interest in AI Agents and Modern Backend Architectures.</h3>
+<h3 align="center">Software Engineering Student @ Metrodora FP (Madrid, Spain)<br>Focusing on building scalable, secure, and efficient solutions with a special interest in AI Agents and Modern Backend Architectures.</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📊 FinSight | AI-Powered Portfolio Analyst -> (https://github.com/Roy-Rebuffo/FinSight)<br><br>Finance & AI | Python + LangGraph + Groq + FastAPI + React<br><br>-Advanced AI Agent built with LangGraph for multi-step financial reasoning, executing complex RAG flows to analyze market documentation.<br><br>-Smart Portfolio Management featuring real-time data visualization, automated asset tracking, and insightful investment analysis.<br><br>-Enterprise-grade Architecture: Seamless integration of a high-performance FastAPI backend with a modern, responsive React frontend.<br><br>🤖 Planning Agent | AI Automation -> (https://github.com/Roy-Rebuffo/Planning_Agent)<br>Productivity | Python + LangChain + Groq + FastAPI + Streamlit<br><br>- Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>- Implementation of complex RAG flows for documentation management.<br><br>💻 mini_Jira | Full-Stack -> (https://github.com/Roy-Rebuffo/mini_Jira)<br>Productivity | Python + FastAPI + PostgreSQL + React<br><br>- Personal task manager inspired by Jira, featuring a high-performance REST API and secure JWT authentication.<br><br>- Architected with a clean separation of concerns: SQLAlchemy ORM, Pydantic schemas, and modular CRUD logic.<br><br>🍰 SweetDash | Full-Stack => (https://github.com/Roy-Rebuffo/SweetDash)<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>- Full scale management system for stock control, traceability, and automated ordering.</p>
+<h4 align="left">📊 FinSight | AI-Powered Portfolio Analyst -> (https://github.com/Roy-Rebuffo/FinSight)<br><br>Finance & AI | Python + LangGraph + Groq + FastAPI + React<br><br>-Advanced AI Agent built with LangGraph for multi-step financial reasoning, executing complex RAG flows to analyze market documentation.<br><br>-Smart Portfolio Management featuring real-time data visualization, automated asset tracking, and insightful investment analysis.<br><br>-Enterprise-grade Architecture: Seamless integration of a high-performance FastAPI backend with a modern, responsive React frontend.<br><br>🤖 Planning Agent | AI Automation -> (https://github.com/Roy-Rebuffo/Planning_Agent)<br>Productivity | Python + LangChain + Groq + FastAPI + Streamlit<br><br>- Autonomous agent capable of reasoning and organizing tasks with persistent memory.<br><br>- Implementation of complex RAG flows for documentation management.<br><br>💻 mini_Jira | Full-Stack -> (https://github.com/Roy-Rebuffo/mini_Jira)<br>Productivity | Python + FastAPI + PostgreSQL + React<br><br>- Personal task manager inspired by Jira, featuring a high-performance REST API and secure JWT authentication.<br><br>- Architected with a clean separation of concerns: SQLAlchemy ORM, Pydantic schemas, and modular CRUD logic.<br><br>🍰 SweetDash | Full-Stack => (https://github.com/Roy-Rebuffo/SweetDash)<br>Enterprise Logic | Java + Spring Boot + SQL + React<br><br>- Full scale management system for stock control, traceability, and automated ordering.</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- Backend: Java (Spring Boot, Hibernate), Python (FastAPI, Uvicorn, Pydantic).<br><br>- AI & Agents: LangChain, LangGraph, Groq SDK.<br><br>- Database: PostgreSQL, MySQL, SQLAlchemy (ORM), Alembic (Migrations).<br><br>- Frontend: React (TS/JS), Tailwind CSS.<br><br>- DevOps: Git/GitHub, Docker-Compose, JWT Auth.<br><br>📫 Connect with me: rebufforoy@gmail.com<br>💼 https://www.linkedin.com/in/royrebuffo/</p>
+<h4 align="left">- Backend: Java (Spring Boot, Hibernate), Python (FastAPI, Uvicorn, Pydantic).<br><br>- AI & Agents: LangChain, LangGraph, Groq SDK.<br><br>- Database: PostgreSQL, MySQL, SQLAlchemy (ORM), Alembic (Migrations).<br><br>- Frontend: React (TS/JS), Tailwind CSS.<br><br>- DevOps: Git/GitHub, Docker-Compose, JWT Auth.<br><br>📫 Connect with me: rebufforoy@gmail.com<br>💼 https://www.linkedin.com/in/royrebuffo/</h4>
 
 ###
 
